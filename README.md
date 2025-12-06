@@ -29,11 +29,9 @@ I'm a passionate full-stack developer with **16 years of experience** in craftin
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahatmamahardhikach&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahatmamahardhikach&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/mahatmamahardhikach)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahatmamahardhikach&layout=compact&theme=tokyonight&hide_border=true)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahatmamahardhikach&theme=tokyo-night&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahatmamahardhikach&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mahatmamahardhikach)
 
 </div>
 
