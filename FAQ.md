@@ -178,7 +178,7 @@ I'm open to collaborations that align with my interests. Please describe your pr
 ### What's the best way to contact you?
 1. **GitHub Issues** (for project-related)
 2. **Email** (for professional inquiries)
-3. **Twitter** (for general questions)
+3. **X** (for general questions)
 
 See CONTACT.md for more details.
 
@@ -293,7 +293,7 @@ If your question isn't answered here:
 1. Check the project documentation
 2. Search existing GitHub issues
 3. Email me at mahatmamahardhika200588@gmail.com
-4. Reach out on Twitter @mrozesaarychius
+4. Reach out on X @moszesaeschylus
 
 ---
 

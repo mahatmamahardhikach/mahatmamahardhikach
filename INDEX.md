@@ -131,9 +131,9 @@ Welcome to my comprehensive GitHub profile documentation. This index will help y
 - **Organization**: https://github.com/programinglive
 
 ### Social Media
-- **Twitter**: https://twitter.com/mrozesaarychius
+- **X**: https://x.com/moszesaeschylus
 - **TikTok**: https://tiktok.com/@mahatma.mahardhika
-- **LinkedIn**: https://linkedin.com
+- **LinkedIn**: https://www.linkedin.com/in/mahatmamahardhika/
 
 ### Communication
 - **Email**: mahatmamahardhika200588@gmail.com

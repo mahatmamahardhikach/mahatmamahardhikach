@@ -12,7 +12,7 @@ This directory contains configuration and documentation for the GitHub profile.
 
 ## Social Links
 
-- Twitter: @mrozesaarychius
+- X: @moszesaeschylus
 - TikTok: @mahatma.mahardhika
 - Organization: @programinglive
 

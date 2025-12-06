@@ -266,7 +266,7 @@ TOTAL                      ~2,700+ lines
 - Website: https://programinglive.com
 
 ### Social
-- Twitter: https://twitter.com/mrozesaarychius
+- X: https://x.com/moszesaeschylus
 - TikTok: https://tiktok.com/@mahatma.mahardhika
 
 ---

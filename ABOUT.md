@@ -117,7 +117,7 @@ Committed to staying current with industry trends:
 - **Email**: mahatmamahardhika200588@gmail.com
 - **Website**: https://programinglive.com
 - **GitHub**: https://github.com/mahatmamahardhikach
-- **Twitter**: @mrozesaarychius
+- **X**: @moszesaeschylus
 - **TikTok**: @mahatma.mahardhika
 
 ---

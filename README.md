@@ -7,7 +7,7 @@
 🎯 16 Years of Crafting Digital Magic | Turning Coffee into Code ☕
 
 [![GitHub followers](https://img.shields.io/github/followers/mahatmamahardhikach?style=social)](https://github.com/mahatmamahardhikach)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mrozesaarychius?style=social)](https://twitter.com/mrozesaarychius)
+[![X Follow](https://img.shields.io/badge/X-000000?style=social&logo=x)](https://x.com/moszesaeschylus)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 </div>
@@ -111,8 +111,8 @@ I'm a passionate full-stack developer with **16 years of experience** in craftin
 | Platform | Link |
 |----------|------|
 | 🌍 **Website** | [programinglive.com](https://programinglive.com) |
-| 💼 **LinkedIn** | [mahatmamahardhikach](https://linkedin.com) |
-| 🐦 **Twitter** | [@mrozesaarychius](https://twitter.com/mrozesaarychius) |
+| 💼 **LinkedIn** | [mahatmamahardhikach](https://www.linkedin.com/in/mahatmamahardhika/) |
+| 🐦 **X** | [@moszesaeschylus](https://x.com/moszesaeschylus) |
 | 📧 **Email** | mahatmamahardhika200588@gmail.com |
 | 🎵 **TikTok** | [@mahatma.mahardhika](https://tiktok.com/@mahatma.mahardhika) |
 | 📱 **Organization** | [@programinglive](https://github.com/programinglive) |

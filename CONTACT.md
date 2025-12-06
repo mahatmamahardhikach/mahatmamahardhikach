@@ -25,8 +25,8 @@ Response time: Usually within 24-48 hours
 
 ## 🐦 Social Media
 
-### Twitter
-- **Handle**: [@mrozesaarychius](https://twitter.com/mrozesaarychius)
+### X (formerly Twitter)
+- **Handle**: [@moszesaeschylus](https://x.com/moszesaeschylus)
 - **Content**: Tech updates, insights, community news
 - **Frequency**: Regular updates
 
@@ -36,7 +36,7 @@ Response time: Usually within 24-48 hours
 - **Audience**: Developers and tech enthusiasts
 
 ### LinkedIn
-- **Profile**: [mahatmamahardhikach](https://linkedin.com)
+- **Profile**: [mahatmamahardhikach](https://www.linkedin.com/in/mahatmamahardhika/)
 - **Content**: Professional updates, achievements
 - **Purpose**: Professional networking
 
