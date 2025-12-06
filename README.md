@@ -33,15 +33,16 @@ I'm a passionate full-stack developer with **16 years of experience** in craftin
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahatmamahardhikach&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff)](https://github.com/mahatmamahardhikach)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahatmamahardhikach&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/mahatmamahardhikach)
-
-### Additional Stats
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahatmamahardhikach&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/mahatmamahardhikach)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mahatmamahardhikach&color=blueviolet&style=flat-square)](https://github.com/mahatmamahardhikach)
+
+### GitHub Activity
+
+- 📊 **2,885+ Contributions** in the last year
+- 📦 **6 Public Repositories** with active maintenance
+- 👥 **12 Followers** | **11 Following**
+- 🎖️ Active contributor to open-source projects
 
 </div>
 
