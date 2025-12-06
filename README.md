@@ -10,6 +10,10 @@
 [![X Follow](https://img.shields.io/badge/X-000000?style=social&logo=x)](https://x.com/moszesaeschylus)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 
+[![GitHub User's stars](https://img.shields.io/github/stars/mahatmamahardhikach?style=flat&label=Stars&color=yellow)](https://github.com/mahatmamahardhikach)
+[![GitHub Repos](https://img.shields.io/badge/Repositories-6-blue?style=flat&logo=github)](https://github.com/mahatmamahardhikach?tab=repositories)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=flat)](https://github.com/mahatmamahardhikach)
+
 </div>
 
 ---
@@ -29,9 +33,15 @@ I'm a passionate full-stack developer with **16 years of experience** in craftin
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahatmamahardhikach&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/mahatmamahardhikach)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahatmamahardhikach&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff)](https://github.com/mahatmamahardhikach)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahatmamahardhikach&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mahatmamahardhikach)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahatmamahardhikach&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/mahatmamahardhikach)
+
+### Additional Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahatmamahardhikach&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/mahatmamahardhikach)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mahatmamahardhikach&color=blueviolet&style=flat-square)](https://github.com/mahatmamahardhikach)
 
 </div>
 
@@ -49,6 +59,19 @@ I'm a passionate full-stack developer with **16 years of experience** in craftin
 | **[Laler](https://github.com/programinglive/laler)** | Capture Laravel VarDumper output and redirect it to any channel you control | PHP |
 | **[Committer](https://github.com/programinglive/committer)** | Commit convention tooling for standard-version releases | JavaScript |
 | **[Zettly Editor](https://github.com/programinglive/zettly-editor)** | Shadn-based WYSIWYG editor for Zettly todo and notes applications | TypeScript |
+
+---
+
+## 🏅 Status & Quality Badges
+
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/mahatmamahardhikach/mahatmamahardhikach?style=flat&color=blue)](https://github.com/mahatmamahardhikach/mahatmamahardhikach)
+[![Repo Size](https://img.shields.io/github/repo-size/mahatmamahardhikach/mahatmamahardhikach?style=flat&color=orange)](https://github.com/mahatmamahardhikach/mahatmamahardhikach)
+[![Active Development](https://img.shields.io/badge/Active%20Development-Yes-success?style=flat)](https://github.com/mahatmamahardhikach)
+
+</div>
 
 ---
 
