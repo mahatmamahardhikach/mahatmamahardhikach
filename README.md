@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 [![GitHub User's stars](https://img.shields.io/github/stars/mahatmamahardhikach?style=flat&label=Stars&color=yellow)](https://github.com/mahatmamahardhikach)
-[![GitHub Repos](https://img.shields.io/badge/Repositories-6-blue?style=flat&logo=github)](https://github.com/mahatmamahardhikach?tab=repositories)
+[![GitHub Repos](https://img.shields.io/badge/Repositories-8-blue?style=flat&logo=github)](https://github.com/programinglive?tab=repositories)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=flat)](https://github.com/mahatmamahardhikach)
 
 </div>
@@ -20,11 +20,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer in crafting digital solutions. I specialize in building scalable applications, open-source tools, and innovative projects that solve real-world problems.
+I'm a passionate full-stack developer who crafts digital solutions. I specialize in building scalable applications, open-source tools, and innovative projects that solve real-world problems.
 
 - 🎨 **Expertise**: TypeScript, JavaScript, PHP, Laravel, React, Node.js
 - 🌍 **Based in**: Jakarta, Indonesia
-- 💼 **Current Focus**: Open-source development & community building
+- 💼 **Current Focus**: Open-source development & accessible technology education
 - 🎯 **Mission**: Making development tools more accessible and productive
 
 ---
@@ -39,9 +39,9 @@ I'm a passionate full-stack developer in crafting digital solutions. I specializ
 
 ### GitHub Activity
 
-- 📊 **2,885+ Contributions** in the last year
-- 📦 **6 Public Repositories** with active maintenance
-- 👥 **12 Followers** | **11 Following**
+- 📊 **All 7 roadmap priorities (P0–P6) complete — 32/32 milestones verified** (Oct 2026)
+- 📦 **8 Open-source projects** actively maintained
+- 👥 **15 Followers** | **11 Following**
 - 🎖️ Active contributor to open-source projects
 
 </div>
@@ -59,7 +59,9 @@ I'm a passionate full-stack developer in crafting digital solutions. I specializ
 | **[Dev Workflow MCP Server](https://github.com/programinglive/dev-workflow-mcp-server)** | MCP server to enforce development workflow discipline | JavaScript |
 | **[Laler](https://github.com/programinglive/laler)** | Capture Laravel VarDumper output and redirect it to any channel you control | PHP |
 | **[Committer](https://github.com/programinglive/committer)** | Commit convention tooling for standard-version releases | JavaScript |
-| **[Zettly Editor](https://github.com/programinglive/zettly-editor)** | Shadn-based WYSIWYG editor for Zettly todo and notes applications | TypeScript |
+| **[Zettly Editor](https://github.com/programinglive/zettly-editor)** | Shadcn-based WYSIWYG editor for Zettly todo and notes applications | TypeScript |
+| **[DB Pinball](https://github.com/programinglive/dbpinball)** | Modern TablePlus-style database management workspace with Laravel backup & restore orchestration | Tauri, Rust, React, TypeScript, PHP |
+| **[Belajar](https://github.com/programinglive/belajar)** | Open learning platform for PHP & web-development fundamentals, with beginner-friendly contribution paths | PHP, Web Fundamentals |
 
 ---
 
@@ -104,9 +106,9 @@ I'm a passionate full-stack developer in crafting digital solutions. I specializ
 
 ## 🏆 Achievements
 
-- 🌟 **2,885+ Contributions** in the last year
-- 📦 **6 Public Repositories** with active maintenance
-- 👥 **12 Followers** | **11 Following**
+- 🌟 **32/32 roadmap milestones** complete & verified (P0–P6, Oct 2026)
+- 📦 **8 Open-source projects** actively maintained
+- 👥 **15 Followers** | **11 Following**
 - 🎖️ GitHub Achievements & Badges
 - 🤝 Active in **ProgramingLive** community
 
@@ -115,13 +117,14 @@ I'm a passionate full-stack developer in crafting digital solutions. I specializ
 ## 📈 Recent Activity
 
 ### Latest Repositories
-- **mahatmamahardhikach** - Personal portfolio
-- **programinglive.my.id** - Community website
-- **cingolon** - Community project
+- **programinglive** - Bilingual portal & docs for accessible technology education (Next.js · TypeScript)
+- **dbpinball** - TablePlus-style database workspace with Laravel backup/restore orchestration (Tauri · Rust · React)
+- **belajar** - Open learning platform for PHP & web fundamentals
 
 ### Contribution Highlights
-- Created **133 commits** across 11 repositories in December 2025
-- Created **3 repositories** recently
+- Completed **ProgramingLive roadmap P0–P6** (32/32 milestones, verified October 2026)
+- Running a **bi-weekly blog cadence** with curriculum & practical developer notes
+- Preparing **release v0.1.14** and monthly outcome-review cycles
 - Active contributor to open-source projects
 
 ---
@@ -145,17 +148,21 @@ I'm a passionate full-stack developer in crafting digital solutions. I specializ
 
 ## 💡 What I'm Working On
 
-- 🔨 Building scalable open-source tools for developers
-- 📚 Creating educational content about web development
-- 🚀 Contributing to the developer community
-- 🎯 Improving development workflow automation
+- 🔨 Preparing ProgramingLive release v0.1.14
+- 📚 Publishing bi-weekly curriculum & practical developer notes
+- 🚀 Supporting learner cohorts & the Indonesia Emas 2045 pilot
+- 🎯 Running monthly outcome-review cycles across P0–P6 programs
 
 ---
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-Check out my [website](https://programinglive.com) for latest articles and tutorials
+- 📝 **Building the First Web Page**: text-first, low-data curriculum design
+- 📝 **Mobile-First DevTools**: testing web pages on 375px & 1280px viewports
+- 📝 **Consent-First Progress**: privacy-aware learning-signal tracking
+
+Read more on the [ProgramingLive blog](https://programinglive.com/blog) (published bi-weekly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -186,6 +193,6 @@ I'm always interested in:
 
 **Made with ❤️ by Mahatma Mahardhika**
 
-*Last updated: December 2025*
+*Last updated: November 2026*
 
 </div>
