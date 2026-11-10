@@ -122,7 +122,6 @@ I believe access to technology education is a right, not a privilege. One learne
 | Platform | Link |
 |----------|------|
 | 🌍 **Website** | [programinglive.com](https://programinglive.com) |
-| ✍️ **Medium** | [@moszes](https://medium.com/@moszes) |
 | 💼 **LinkedIn** | [mahatmamahardhikach](https://www.linkedin.com/in/mahatmamahardhika/) |
 | 🐦 **X** | [@moszesaeschylus](https://x.com/moszesaeschylus) |
 | 📧 **Email** | mahatmamahardhika200588@gmail.com |
@@ -154,16 +153,15 @@ Read more on the [ProgramingLive blog](https://programinglive.com/blog) (publish
 
 ---
 
-## 📖 From My Writing
+## 📝 For Those Who Are Just Starting
 
-I've been writing publicly about these ideas since 2023 — from "just start" to why a degree is not the only path into technology:
+These are the ideas I've been writing about since 2023, distilled:
 
-- 📝 [**Cara Memulai Belajar Bahasa Program**](https://medium.com/@moszes/cara-memulai-belajar-bahasa-program-c8c9f529e107) — beginners get stuck in overthinking, not in the code; learning is a lifelong process
-- 📝 [**Perlukah Kuliah IT untuk Jadi Programmer?**](https://medium.com/@moszes/perlukah-kuliah-it-untuk-jadi-programmer-c57e75daf70c) — a free, open-source portfolio speaks louder than a diploma
-- 📝 [**Mental Programmer**](https://medium.com/@moszes/mental-programmer-c65282cbe71e) — curiosity, persistence, and the discipline to accept that learning takes time
-- 📝 [**7 Alasan Kenapa Jadi Programmer**](https://medium.com/@moszes/7-alasan-kenapa-jadi-programmer-b5d6c614a56e) — the social impact of building software for people's lives
-
-More free, beginner-friendly tutorials on [my Medium](https://medium.com/@moszes).
+- **Just start.** More beginners get stuck in overthinking than in the code itself. Pick one language first, keep your plan simple, and leave room to digest what you learn.
+- **A degree is not a gate.** A free, public portfolio of real projects speaks louder than a diploma — and the community that supports self-taught developers is bigger than most people think.
+- **Learning is a lifelong process, not a race.** Curiosity, persistence, and the patience to accept that it takes time matter more than speed.
+- **Maximize what you already have.** The free open-source ecosystem runs on the device in your hands — you don't need expensive gear or a specific OS to begin.
+- **Code changes lives.** From apps that reshape how people move their cities to small tools a community builds for itself — the social impact is the real reward.
 
 ---
 
