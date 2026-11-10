@@ -4,7 +4,7 @@
 
 **Full-Stack Developer | Open Source Enthusiast | Digital Magic Crafter**
 
-🎯 16 Years of Crafting Digital Magic | Turning Coffee into Code ☕
+🎯 Crafting Digital Magic | Turning Coffee into Code ☕
 
 [![GitHub followers](https://img.shields.io/github/followers/mahatmamahardhikach?style=social)](https://github.com/mahatmamahardhikach)
 [![X Follow](https://img.shields.io/badge/X-000000?style=social&logo=x)](https://x.com/moszesaeschylus)
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with **16 years of experience** in crafting digital solutions. I specialize in building scalable applications, open-source tools, and innovative projects that solve real-world problems.
+I'm a passionate full-stack developer in crafting digital solutions. I specialize in building scalable applications, open-source tools, and innovative projects that solve real-world problems.
 
 - 🎨 **Expertise**: TypeScript, JavaScript, PHP, Laravel, React, Node.js
 - 🌍 **Based in**: Jakarta, Indonesia
