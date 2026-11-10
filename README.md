@@ -122,6 +122,7 @@ I believe access to technology education is a right, not a privilege. One learne
 | Platform | Link |
 |----------|------|
 | 🌍 **Website** | [programinglive.com](https://programinglive.com) |
+| ✍️ **Medium** | [@moszes](https://medium.com/@moszes) |
 | 💼 **LinkedIn** | [mahatmamahardhikach](https://www.linkedin.com/in/mahatmamahardhika/) |
 | 🐦 **X** | [@moszesaeschylus](https://x.com/moszesaeschylus) |
 | 📧 **Email** | mahatmamahardhika200588@gmail.com |
@@ -150,6 +151,19 @@ I believe access to technology education is a right, not a privilege. One learne
 
 Read more on the [ProgramingLive blog](https://programinglive.com/blog) (published bi-weekly)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📖 From My Writing
+
+I've been writing publicly about these ideas since 2023 — from "just start" to why a degree is not the only path into technology:
+
+- 📝 [**Cara Memulai Belajar Bahasa Program**](https://medium.com/@moszes/cara-memulai-belajar-bahasa-program-c8c9f529e107) — beginners get stuck in overthinking, not in the code; learning is a lifelong process
+- 📝 [**Perlukah Kuliah IT untuk Jadi Programmer?**](https://medium.com/@moszes/perlukah-kuliah-it-untuk-jadi-programmer-c57e75daf70c) — a free, open-source portfolio speaks louder than a diploma
+- 📝 [**Mental Programmer**](https://medium.com/@moszes/mental-programmer-c65282cbe71e) — curiosity, persistence, and the discipline to accept that learning takes time
+- 📝 [**7 Alasan Kenapa Jadi Programmer**](https://medium.com/@moszes/7-alasan-kenapa-jadi-programmer-b5d6c614a56e) — the social impact of building software for people's lives
+
+More free, beginner-friendly tutorials on [my Medium](https://medium.com/@moszes).
 
 ---
 
