@@ -56,8 +56,6 @@ I'm a passionate full-stack developer who crafts digital solutions. I specialize
 |---------|-------------|-----------|
 | **[HRIS](https://github.com/programinglive/hris)** | Open Source HRIS System from ProgramingLive Community | TypeScript, JavaScript |
 | **[Zettly](https://github.com/programinglive/zettly)** | Productivity & knowledge management app with task management, idea linking, and priority planning | JavaScript |
-| **[Dev Workflow MCP Server](https://github.com/programinglive/dev-workflow-mcp-server)** | MCP server to enforce development workflow discipline | JavaScript |
-| **[Laler](https://github.com/programinglive/laler)** | Capture Laravel VarDumper output and redirect it to any channel you control | PHP |
 | **[Committer](https://github.com/programinglive/committer)** | Commit convention tooling for standard-version releases | JavaScript |
 | **[Zettly Editor](https://github.com/programinglive/zettly-editor)** | Shadcn-based WYSIWYG editor for Zettly todo and notes applications | TypeScript |
 | **[DB Pinball](https://github.com/programinglive/dbpinball)** | Modern TablePlus-style database management workspace with Laravel backup & restore orchestration | Tauri, Rust, React, TypeScript, PHP |
