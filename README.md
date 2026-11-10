@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Full-Stack Developer | Open Source Enthusiast | Digital Magic Crafter**
+**Open Source Enthusiast | Digital Magic Crafter | Free Tech-Education Advocate**
 
 🎯 Crafting Digital Magic | Turning Coffee into Code ☕
 
@@ -20,12 +20,26 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer who crafts digital solutions. I specialize in building scalable applications, open-source tools, and innovative projects that solve real-world problems.
+I build technology because I couldn't stop asking one question: **why doesn't Indonesia have a single free platform that teaches technology end to end — from absolute zero to real open-source contribution?**
 
-- 🎨 **Expertise**: TypeScript, JavaScript, PHP, Laravel, React, Node.js
+Most of what's available is fragmented: scattered tutorials, paywalled courses, English-only resources — and for learners with limited bandwidth or shared devices, the gap gets even wider. That frustration became my mission.
+
 - 🌍 **Based in**: Jakarta, Indonesia
-- 💼 **Current Focus**: Open-source development & accessible technology education
-- 🎯 **Mission**: Making development tools more accessible and productive
+- 💼 **Current Focus**: Building free, accessible technology education for Indonesia
+- 🎯 **Mission**: Every Indonesian deserves a complete, free path into technology — that's what **ProgramingLive** is
+- ❤️ **The Why**: I believe learning technology should never depend on money, location, or English fluency
+
+---
+
+## 🌱 My Why
+
+I keep coming back to one question: **why is there no free platform in Indonesia that gives people the full picture of technology?**
+
+The options today are fragmented — scattered tutorials, paid courses, English-only resources, tools that assume you already know the basics. For someone in a small town on a shared device with limited bandwidth, that gap is even bigger.
+
+That frustration drives everything I build. **ProgramingLive** is my answer: a free, open, learner-first platform that walks people from zero — digital foundations, first web page, real projects, collaboration, open source — with text-first low-data lessons, no account walls, and consent-first progress tracking.
+
+I believe access to technology education is a right, not a privilege. One learner at a time, we're building pathways from learning to opportunity — toward an Indonesia Emas 2045 that doesn't just consume technology, but builds it.
 
 ---
 
@@ -73,32 +87,6 @@ I'm a passionate full-stack developer who crafts digital solutions. I specialize
 [![Active Development](https://img.shields.io/badge/Active%20Development-Yes-success?style=flat)](https://github.com/mahatmamahardhikach)
 
 </div>
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
@@ -167,11 +155,11 @@ Read more on the [ProgramingLive blog](https://programinglive.com/blog) (publish
 
 ## 🎓 Learning & Development
 
-I'm constantly learning and exploring new technologies:
-- Advanced TypeScript patterns
-- Cloud architecture (AWS, GCP)
-- DevOps & CI/CD practices
-- AI/ML integration in web applications
+I'm constantly learning and exploring:
+- How to make technology education truly free and complete for Indonesian learners
+- Curriculum design: text-first, low-data, no-account learning paths
+- Mentorship & community workflows that keep beginners safe, honest, and motivated
+- Using AI to make learning more open, not more exclusive
 
 ---
 
@@ -179,9 +167,9 @@ I'm constantly learning and exploring new technologies:
 
 I'm always interested in:
 - 💬 Collaborating on open-source projects
-- 🎤 Speaking at tech meetups and conferences
-- 📖 Writing technical articles
-- 🚀 Building innovative solutions together
+- 🤝 Partnering with schools, NGOs, & mentors to bring free tech education to Indonesian communities
+- 📖 Writing about accessible technology education
+- 🚀 Building tools that let anyone learn technology, wherever they are
 
 ---
 
