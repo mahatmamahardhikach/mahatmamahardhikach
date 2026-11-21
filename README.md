@@ -1,196 +1,62 @@
-# 👋 Hi, I'm Mahatma Mahardhika
+# Hi, I'm Mahatma Mahardhika
 
-<div align="center">
+**Founder of [ProgramingLive](https://programinglive.com)** · Jakarta, Indonesia
 
-**Open Source Enthusiast | Digital Magic Crafter | Free Tech-Education Advocate**
-
-🎯 Crafting Digital Magic | Turning Coffee into Code ☕
-
-[![GitHub followers](https://img.shields.io/github/followers/mahatmamahardhikach?style=social)](https://github.com/mahatmamahardhikach)
-[![X Follow](https://img.shields.io/badge/X-000000?style=social&logo=x)](https://x.com/moszesaeschylus)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-
-[![GitHub User's stars](https://img.shields.io/github/stars/mahatmamahardhikach?style=flat&label=Stars&color=yellow)](https://github.com/mahatmamahardhikach)
-[![GitHub Repos](https://img.shields.io/badge/Repositories-8-blue?style=flat&logo=github)](https://github.com/programinglive?tab=repositories)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=flat)](https://github.com/mahatmamahardhikach)
-
-</div>
+I build free, open technology education and practical open-source software for Indonesia — because learning to build technology should never depend on money, location, or English fluency.
 
 ---
 
-## 🚀 About Me
+## Why I Build
 
-I build technology because I couldn't stop asking one question: **why doesn't Indonesia have a single free platform that teaches technology end to end — from absolute zero to real open-source contribution?**
+I couldn't stop asking one question: **why doesn't Indonesia have a single free, open platform that takes someone from zero all the way to real open-source contribution?**
 
-Most of what's available is fragmented: scattered tutorials, paywalled courses, English-only resources — and for learners with limited bandwidth or shared devices, the gap gets even wider. That frustration became my mission.
+Most resources are fragmented — paywalled courses, English-only docs, or heavy video lessons that leave out learners on shared devices and limited mobile data. **[ProgramingLive](https://programinglive.com)** is my answer: a text-first, low-data, no-account-wall learning ecosystem built in public, so anyone across Indonesia can go from their first line of code to shipping real software.
 
-- 🌍 **Based in**: Jakarta, Indonesia
-- 💼 **Current Focus**: Building free, accessible technology education for Indonesia
-- 🎯 **Mission**: Every Indonesian deserves a complete, free path into technology — that's what **ProgramingLive** is
-- ❤️ **The Why**: I believe learning technology should never depend on money, location, or English fluency
+One learner at a time, I want to help grow an **Indonesia Emas 2045** that doesn't just consume technology — it builds it.
 
 ---
 
-## 🌱 My Why
+## What We're Building at [@programinglive](https://github.com/programinglive)
 
-I keep coming back to one question: **why is there no free platform in Indonesia that gives people the full picture of technology?**
+### Free Tech Education for Indonesia
+- **[ProgramingLive](https://github.com/programinglive/programinglive)** ([programinglive.com](https://programinglive.com)) — Bilingual portal, curriculum, and articles designed to stay fast, readable, and accessible on low-bandwidth connections.
+- **[Belajar](https://github.com/programinglive/belajar)** ([belajar.programinglive.com](https://belajar.programinglive.com)) — Open learning platform for PHP and web development fundamentals, with beginner-friendly paths into open-source contribution.
+- **[Ollama Local AI](https://github.com/programinglive/ollama-local-ai)** — Complete Bahasa Indonesia guide to running open-weight AI models locally on Windows without paying for cloud APIs.
 
-The options today are fragmented — scattered tutorials, paid courses, English-only resources, tools that assume you already know the basics. For someone in a small town on a shared device with limited bandwidth, that gap is even bigger.
-
-That frustration drives everything I build. **ProgramingLive** is my answer: a free, open, learner-first platform that walks people from zero — digital foundations, first web page, real projects, collaboration, open source — with text-first low-data lessons, no account walls, and consent-first progress tracking.
-
-I believe access to technology education is a right, not a privilege. One learner at a time, we're building pathways from learning to opportunity — toward an Indonesia Emas 2045 that doesn't just consume technology, but builds it.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahatmamahardhikach&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/mahatmamahardhikach)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=mahatmamahardhikach&color=blueviolet&style=flat-square)](https://github.com/mahatmamahardhikach)
-
-### GitHub Activity
-
-- 📊 **All 7 roadmap priorities (P0–P6) complete — 32/32 milestones verified** (Oct 2026)
-- 📦 **8 Open-source projects** actively maintained
-- 👥 **15 Followers** | **11 Following**
-- 🎖️ Active contributor to open-source projects
-
-</div>
+### Open-Source Tools Built in Public
+- **[HRIS](https://github.com/programinglive/hris)** ([hris.programinglive.com](https://hris.programinglive.com)) — Open-source Human Resource Information System built with the ProgramingLive community.
+- **[Zettly](https://github.com/programinglive/zettly)** ([zettly.programinglive.com](https://zettly.programinglive.com)) & **[Zettly Editor](https://github.com/programinglive/zettly-editor)** — Knowledge and task management combining Zettelkasten note linking with priority planning.
+- **[DBPinball](https://github.com/programinglive/dbpinball)** ([dbpinball.programinglive.com](https://dbpinball.programinglive.com)) — Open-source desktop and CLI workspace for inspecting and safely syncing PostgreSQL and MariaDB databases.
+- **[DevWorkflow](https://github.com/programinglive/dev-workflow)** ([devworkflow.programinglive.com](https://devworkflow.programinglive.com)) — Open-source MCP server that brings engineering discipline and traceability to AI-assisted development.
+- **[Commiter](https://github.com/programinglive/commiter)** — Lightweight conventional commit and semantic release tooling.
 
 ---
 
-## 🎯 Featured Projects
+## For Those Who Are Just Starting
 
-### 🔥 Pinned Repositories
+Ideas I've shared with Indonesian beginners since 2023, distilled:
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[HRIS](https://github.com/programinglive/hris)** | Open Source HRIS System from ProgramingLive Community | TypeScript, JavaScript |
-| **[Zettly](https://github.com/programinglive/zettly)** | Productivity & knowledge management app with task management, idea linking, and priority planning | JavaScript |
-| **[Committer](https://github.com/programinglive/committer)** | Commit convention tooling for standard-version releases | JavaScript |
-| **[Zettly Editor](https://github.com/programinglive/zettly-editor)** | Shadcn-based WYSIWYG editor for Zettly todo and notes applications | TypeScript |
-| **[DB Pinball](https://github.com/programinglive/dbpinball)** | Modern TablePlus-style database management workspace with Laravel backup & restore orchestration | Tauri, Rust, React, TypeScript, PHP |
-| **[Belajar](https://github.com/programinglive/belajar)** | Open learning platform for PHP & web-development fundamentals, with beginner-friendly contribution paths | PHP, Web Fundamentals |
+- **Just start.** More beginners get stuck overthinking than in the code itself. Pick one language, keep your plan simple, and give yourself room to digest what you learn.
+- **A degree is not a gate.** Real projects built in public speak louder than a diploma — and the community supporting self-taught builders is bigger than most people think.
+- **Learning is a lifelong craft, not a race.** Curiosity, consistency, and patience matter far more than speed.
+- **Maximize what you already have.** Free open-source tools run on the device already in your hands — you don't need expensive hardware to begin.
+- **Code changes lives.** Whether it's a platform that opens doors for students or a small tool a local community builds for itself, real-world impact is the whole point.
 
 ---
 
-## 🏅 Status & Quality Badges
+## Let's Collaborate for Impact
 
-<div align="center">
+I'm always glad to connect with people who care about growing Indonesia's tech ecosystem:
 
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/mahatmamahardhikach/mahatmamahardhikach?style=flat&color=blue)](https://github.com/mahatmamahardhikach/mahatmamahardhikach)
-[![Repo Size](https://img.shields.io/github/repo-size/mahatmamahardhikach/mahatmamahardhikach?style=flat&color=orange)](https://github.com/mahatmamahardhikach/mahatmamahardhikach)
-[![Active Development](https://img.shields.io/badge/Active%20Development-Yes-success?style=flat)](https://github.com/mahatmamahardhikach)
+- **Schools, campuses, & NGOs** looking to bring free tech education to students and communities
+- **Mentors & writers** who want to share practical, beginner-friendly Indonesian tech lessons
+- **Open-source contributors** who want to build useful public tools together
 
-</div>
-
----
-
-## 🏆 Achievements
-
-- 🌟 **32/32 roadmap milestones** complete & verified (P0–P6, Oct 2026)
-- 📦 **8 Open-source projects** actively maintained
-- 👥 **15 Followers** | **11 Following**
-- 🎖️ GitHub Achievements & Badges
-- 🤝 Active in **ProgramingLive** community
-
----
-
-## 📈 Recent Activity
-
-### Latest Repositories
-- **programinglive** - Bilingual portal & docs for accessible technology education (Next.js · TypeScript)
-- **dbpinball** - TablePlus-style database workspace with Laravel backup/restore orchestration (Tauri · Rust · React)
-- **belajar** - Open learning platform for PHP & web fundamentals
-
-### Contribution Highlights
-- Completed **ProgramingLive roadmap P0–P6** (32/32 milestones, verified October 2026)
-- Running a **bi-weekly blog cadence** with curriculum & practical developer notes
-- Preparing **release v0.1.14** and monthly outcome-review cycles
-- Active contributor to open-source projects
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 🌍 **Website** | [programinglive.com](https://programinglive.com) |
-| 💼 **LinkedIn** | [mahatmamahardhikach](https://www.linkedin.com/in/mahatmamahardhika/) |
-| 🐦 **X** | [@moszesaeschylus](https://x.com/moszesaeschylus) |
-| 📧 **Email** | mahatmamahardhika200588@gmail.com |
-| 🎵 **TikTok** | [@mahatma.mahardhika](https://tiktok.com/@mahatma.mahardhika) |
-| 📱 **Organization** | [@programinglive](https://github.com/programinglive) |
-
-</div>
-
----
-
-## 💡 What I'm Working On
-
-- 🔨 Preparing ProgramingLive release v0.1.14
-- 📚 Publishing bi-weekly curriculum & practical developer notes
-- 🚀 Supporting learner cohorts & the Indonesia Emas 2045 pilot
-- 🎯 Running monthly outcome-review cycles across P0–P6 programs
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 📝 **Building the First Web Page**: text-first, low-data curriculum design
-- 📝 **Mobile-First DevTools**: testing web pages on 375px & 1280px viewports
-- 📝 **Consent-First Progress**: privacy-aware learning-signal tracking
-
-Read more on the [ProgramingLive blog](https://programinglive.com/blog) (published bi-weekly)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📝 For Those Who Are Just Starting
-
-These are the ideas I've been writing about since 2023, distilled:
-
-- **Just start.** More beginners get stuck in overthinking than in the code itself. Pick one language first, keep your plan simple, and leave room to digest what you learn.
-- **A degree is not a gate.** A free, public portfolio of real projects speaks louder than a diploma — and the community that supports self-taught developers is bigger than most people think.
-- **Learning is a lifelong process, not a race.** Curiosity, persistence, and the patience to accept that it takes time matter more than speed.
-- **Maximize what you already have.** The free open-source ecosystem runs on the device in your hands — you don't need expensive gear or a specific OS to begin.
-- **Code changes lives.** From apps that reshape how people move their cities to small tools a community builds for itself — the social impact is the real reward.
-
----
-
-## 🎓 Learning & Development
-
-I'm constantly learning and exploring:
-- How to make technology education truly free and complete for Indonesian learners
-- Curriculum design: text-first, low-data, no-account learning paths
-- Mentorship & community workflows that keep beginners safe, honest, and motivated
-- Using AI to make learning more open, not more exclusive
-
----
-
-## 🤝 Open to Collaboration
-
-I'm always interested in:
-- 💬 Collaborating on open-source projects
-- 🤝 Partnering with schools, NGOs, & mentors to bring free tech education to Indonesian communities
-- 📖 Writing about accessible technology education
-- 🚀 Building tools that let anyone learn technology, wherever they are
-
----
-
-<div align="center">
-
-### ⭐ If you find my work helpful, please consider giving a star!
-
-**Made with ❤️ by Mahatma Mahardhika**
-
-*Last updated: November 2026*
-
-</div>
+| | |
+|---|---|
+| **Website & Blog** | [programinglive.com](https://programinglive.com) |
+| **Organization** | [@programinglive](https://github.com/programinglive) |
+| **Email** | [mahatma.mahardhika@programinglive.com](mailto:mahatma.mahardhika@programinglive.com) |
+| **LinkedIn** | [linkedin.com/in/mahatmamahardhika](https://www.linkedin.com/in/mahatmamahardhika/) |
+| **X** | [@moszesaeschylus](https://x.com/moszesaeschylus) |
+| **TikTok** | [@mahatma.mahardhika](https://tiktok.com/@mahatma.mahardhika) |
